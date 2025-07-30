@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "type": "Dog",
+    "breed": "Golden Retriever",
+    "age": "2 years",
+    "gender": "Male",
+    "location": "Hyderabad",
+    "image": "https://images.dog.ceo/breeds/retriever-golden/n02099601_4006.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Luna",
+    "type": "Cat",
+    "breed": "Persian",
+    "age": "1.5 years",
+    "gender": "Female",
+    "location": "Bhubaneswar",
+    "image": "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "type": "Dog",
+    "breed": "Labrador",
+    "age": "3 years",
+    "gender": "Male",
+    "location": "Delhi",
+    "image": "https://images.dog.ceo/breeds/labrador/n02099712_2932.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Milo",
+    "type": "Cat",
+    "breed": "Maine Coon",
+    "age": "4 years",
+    "gender": "Male",
+    "location": "Mumbai",
+    "image": "https://cdn2.thecatapi.com/images/MTY3ODI1Mw.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bella",
+    "type": "Dog",
+    "breed": "Beagle",
+    "age": "2.5 years",
+    "gender": "Female",
+    "location": "Pune",
+    "image": "https://images.dog.ceo/breeds/beagle/n02088364_1909.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Simba",
+    "type": "Cat",
+    "breed": "Siamese",
+    "age": "3 years",
+    "gender": "Male",
+    "location": "Kolkata",
+    "image": "https://cdn2.thecatapi.com/images/bpc.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rocky",
+    "type": "Dog",
+    "breed": "German Shepherd",
+    "age": "2 years",
+    "gender": "Male",
+    "location": "Bangalore",
+    "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_2405.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Daisy",
+    "type": "Cat",
+    "breed": "Bengal",
+    "age": "1 year",
+    "gender": "Female",
+    "location": "Ahmedabad",
+    "image": "https://cdn2.thecatapi.com/images/9bt.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Oscar",
+    "type": "Dog",
+    "breed": "Pug",
+    "age": "5 years",
+    "gender": "Male",
+    "location": "Chandigarh",
+    "image": "https://images.dog.ceo/breeds/pug/n02110958_1709.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Coco",
+    "type": "Cat",
+    "breed": "Ragdoll",
+    "age": "2.2 years",
+    "gender": "Female",
+    "location": "Jaipur",
+    "image": "https://cdn2.thecatapi.com/images/MTg4MzYyMA.jpg"
+  }
+]
